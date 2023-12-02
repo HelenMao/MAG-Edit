@@ -2,6 +2,9 @@
 
 This repository is the official implementation of MAG-Edit.
 
+MAG-Edit: Localized Image Editing in Complex Scenarios via
+Mask-Based Attention-Adjusted Guidance  
+
 <p align="center">
 <img src="assets/teaser.png" width="1080px"/>  
 <br>
