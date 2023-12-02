@@ -5,10 +5,16 @@ This repository is the official implementation of MAG-Edit.
 <p align="center">
 <img src="assets/teaser.png" width="1080px"/>  
 <br>
-<em>Given a source image, a source prompt, an edited prompt and a mask as input, our method, MAG-Edit, Our method, MAG-Edit, generates an image that aligns with the edited prompt in the masked region.</em>
+<em>Given a source image, a source prompt, an edited prompt and a mask as input, our method, MAG-Edit, generates an image that aligns with the edited prompt in the masked region.</em>
 </p>
 
  
+
+## TODO:
+- [ ] Release Code
+- [ ] Release MAG-Bench
+
+
 
 ## Results
 
@@ -71,7 +77,7 @@ This repository is the official implementation of MAG-Edit.
 ### Various Editing Types
 
 <p align="center">
-<img src="assets/editing_types.png" />  
+<img src="assets/editing_types.png" width="1080px"/>  
 
 
 
@@ -85,5 +91,14 @@ This repository is the official implementation of MAG-Edit.
 
 
 
+## MAG-Bench
 
 
+
+
+
+
+
+
+
+## Citation
