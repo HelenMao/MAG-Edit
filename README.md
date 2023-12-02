@@ -38,10 +38,10 @@ Mask-Based Attention-Adjusted Guidance
   <td><img src="assets/editing_scenarios/indoor/carpet.png"></td>
 </tr>
 <tr>
-  <td width=25% style="text-align:center;color:gray;"></td>
-  <td width=25% style="text-align:center;">"Blue and velvet sofa”</td>
-  <td width=25% style="text-align:center;">"Marble table"</td>
-  <td width=25% style="text-align:center;">"Yellow and damask carpet"</td>
+  <td  style="text-align:center;color:gray;"></td>
+  <td  style="text-align:center;">"Blue and velvet sofa”</td>
+  <td  style="text-align:center;">"Marble table"</td>
+  <td style="text-align:center;">"Yellow and damask carpet"</td>
 </tr>
  <tr>
   <td style="text-align:center;" colspan="4"><b>Outdoor Scenario</b></td>
@@ -57,10 +57,10 @@ Mask-Based Attention-Adjusted Guidance
   <td><img src="assets/editing_scenarios/outdoor/1/grass.png"></td>
 </tr>
 <tr>
-  <td width=25% style="text-align:center;color:gray;"></td>
-  <td width=25% style="text-align:center;">"Pirate hat”</td>
-  <td width=25% style="text-align:center;">"Tall chef hat"</td>
-  <td width=25% style="text-align:center;">"Leaves-covered grass"</td>
+  <td  style="text-align:center;color:gray;"></td>
+  <td  style="text-align:center;">"Pirate hat”</td>
+  <td  style="text-align:center;">"Tall chef hat"</td>
+  <td  style="text-align:center;">"Leaves-covered grass"</td>
 </tr>
 <tr>
   <td><img src="assets/editing_scenarios/outdoor/2/source.jpg"></td>
@@ -69,10 +69,10 @@ Mask-Based Attention-Adjusted Guidance
   <td><img src="assets/editing_scenarios/outdoor/2/graffiti.png"></td>
 </tr>
 <tr>
-  <td width=25% style="text-align:center;color:gray;"></td>
-  <td width=25% style="text-align:center;">"Limousine”</td>
-  <td width=25% style="text-align:center;">"Roadster"</td>
-  <td width=25% style="text-align:center;">"Graffiti"</td>
+  <td style="text-align:center;color:gray;"></td>
+  <td  style="text-align:center;">"Limousine”</td>
+  <td style="text-align:center;">"Roadster"</td>
+  <td  style="text-align:center;">"Graffiti"</td>
 </tr>
 
 
