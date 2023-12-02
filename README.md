@@ -11,7 +11,7 @@ Mask-Based Attention-Adjusted Guidance
 <em>Given a source image, a source prompt, an edited prompt and a mask as input, our method, MAG-Edit, generates an image that aligns with the edited prompt in the masked region.</em>
 </p>
 
- 
+
 
 ## TODO:
 - [ ] Release Code
@@ -25,11 +25,11 @@ Mask-Based Attention-Adjusted Guidance
 
 <table class="center">
  <tr>
-  <td style="text-align:center;" colspan="4"><b>Indoor Scenario</b></td>
+  <td style="text-align:center;" colspan="4">Indoor Scenario</b></td>
 </tr>
 <tr>
-  <td style="text-align:center;"><b>Input Image</b></td>
-  <td style="text-align:center;" colspan="3"><b>Output Image</b></td>
+  <td style="text-align:center;">Input Image</td>
+  <td style="text-align:center;" colspan="3">Output Image</td>
 </tr>
 <tr>
   <td><img src="assets/editing_scenarios/indoor/source.jpg"></td>
@@ -47,8 +47,8 @@ Mask-Based Attention-Adjusted Guidance
   <td style="text-align:center;" colspan="4"><b>Outdoor Scenario</b></td>
 </tr>
 <tr>
-  <td style="text-align:center;"><b>Input Image</b></td>
-  <td style="text-align:center;" colspan="3"><b>Output Image</b></td>
+  <td style="text-align:center;">Input Image</td>
+  <td style="text-align:center;" colspan="3">Output Image</td>
 </tr>
 <tr>
   <td><img src="assets/editing_scenarios/outdoor/1/source.jpg"></td>
@@ -77,10 +77,12 @@ Mask-Based Attention-Adjusted Guidance
 
 
 
+
 ### Various Editing Types
 
 <p align="center">
-<img src="assets/editing_types.png" width="1080px"/>  
+<img src="assets/editing_types.png"/>  
+
 
 
 
