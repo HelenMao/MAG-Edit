@@ -62,7 +62,7 @@ This repository is the official implementation of MAG-Edit.
 <tr>
   <td width=25% style="text-align:center;color:gray;"></td>
   <td width=25% style="text-align:center;">"Limousine”</td>
-  <td width=25% style="text-align:center;">"Roadstert"</td>
+  <td width=25% style="text-align:center;">"Roadster"</td>
   <td width=25% style="text-align:center;">"Graffiti"</td>
 </tr>
 
@@ -72,4 +72,18 @@ This repository is the official implementation of MAG-Edit.
 
 <p align="center">
 <img src="assets/editing_types.png" />  
+
+
+
+### Controllable Granularity  Localized Editing  
+
+
+
+
+
+
+
+
+
+
 
