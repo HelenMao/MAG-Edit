@@ -12,8 +12,8 @@ Mask-Based Attention-Adjusted Guidance
 </p>
 
 
+## TODO:
 
-##TODO:
 - [ ] Release Code
 - [ ] Release MAG-Bench
 
