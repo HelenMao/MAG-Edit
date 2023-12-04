@@ -1,4 +1,4 @@
-# MAG-Edit
+<h1> MAG-Edit </h1>
 
 This repository is the official implementation of MAG-Edit.
 
@@ -13,73 +13,72 @@ Mask-Based Attention-Adjusted Guidance
 
 
 
-## TODO:
+##TODO:
 - [ ] Release Code
 - [ ] Release MAG-Bench
 
 
 
-## Results
+<h2> Results </h2>
 
-### Various Editing Scenarios
-
-<table class="center">
- <tr>
-  <td style="vertical-align:middle;text-align:center;" colspan="4">Indoor Scenario</b></td>
-</tr>
-<tr>
-  <td style=style="vertical-align:middle;text-align:center;">Input Image</td>
-  <td style=style="vertical-align:middle;text-align:center;" colspan="3">Output Image</td>
-</tr>
-<tr>
-  <td><img src="assets/editing_scenarios/indoor/source.jpg"></td>
-  <td><img src="assets/editing_scenarios/indoor/sofa.png"></td>
-  <td><img src="assets/editing_scenarios/indoor/table.png"></td>              
-  <td><img src="assets/editing_scenarios/indoor/carpet.png"></td>
-</tr>
-<tr>
-  <td  style="vertical-align:middle;text-align:center;color:grey;">Simplified edited prompt</td>
-  <td  style="vertical-align:middle;text-align:center;">"Blue and velvet sofa”</td>
-  <td  style="vertical-align:middle;text-align:center;">"Marble table"</td>
-  <td style="vertical-align:middle;text-align:center;">"Yellow and damask carpet"</td>
-</tr>
- <tr>
-  <td style="vertical-align:middle;text-align:center;" colspan="4"><b>Outdoor Scenario</b></td>
-</tr>
-<tr>
-  <td style="text-align:center;">Input Image</td>
-  <td style="text-align:center;" colspan="3">Output Image</td>
-</tr>
-<tr>
-  <td><img src="assets/editing_scenarios/outdoor/1/source.jpg"></td>
-  <td><img src="assets/editing_scenarios/outdoor/1/hat1.png"></td>
-  <td><img src="assets/editing_scenarios/outdoor/1/hat2.png"></td>              
-  <td><img src="assets/editing_scenarios/outdoor/1/grass.png"></td>
-</tr>
-<tr>
-  <td  style="vertical-align:middle;text-align:center;color:gray;">Simplified edited prompt</td>
-  <td  style="vertical-align:middle;text-align:center;">"Pirate hat”</td>
-  <td  style="vertical-align:middle;text-align:center;">"Tall chef hat"</td>
-  <td  style="vertical-align:middle;text-align:center;">"Leaves-covered grass"</td>
-</tr>
-<tr>
-  <td><img src="assets/editing_scenarios/outdoor/2/source.jpg"></td>
-  <td><img src="assets/editing_scenarios/outdoor/2/limousine.png"></td>
-  <td><img src="assets/editing_scenarios/outdoor/2/roadster.png"></td>              
-  <td><img src="assets/editing_scenarios/outdoor/2/graffiti.png"></td>
-</tr>
-<tr>
-  <td style="vertical-align:middle;text-align:center;color:gray;">Simplified edited prompt</td>
-  <td  style="vertical-align:middle;text-align:center;">"Limousine”</td>
-  <td style="vertical-align:middle;text-align:center;">"Roadster"</td>
-  <td  style="vertical-align:middle;text-align:center;">"Graffiti"</td>
-</tr>
-
-
+<h3> Various Editing Scenarios </h3>
+  <table class="center">
+  <tr>
+    <td style="vertical-align:middle;text-align:center;" colspan="4">Indoor Scenario</b></td>
+  </tr>
+  <tr>
+    <td style=style="vertical-align:middle;text-align:center;">Input Image</td>
+    <td style=style="vertical-align:middle;text-align:center;" colspan="3">Output Image</td>
+  </tr>
+  <tr>
+    <td><img src="assets/editing_scenarios/indoor/source.jpg"></td>
+    <td><img src="assets/editing_scenarios/indoor/sofa.png"></td>
+    <td><img src="assets/editing_scenarios/indoor/table.png"></td>              
+    <td><img src="assets/editing_scenarios/indoor/carpet.png"></td>
+  </tr>
+  <tr>
+    <td  style="vertical-align:middle;text-align:center;color:grey;">Simplified edited prompt</td>
+    <td  style="vertical-align:middle;text-align:center;">"Blue and velvet sofa”</td>
+    <td  style="vertical-align:middle;text-align:center;">"Marble table"</td>
+    <td style="vertical-align:middle;text-align:center;">"Yellow and damask carpet"</td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle;text-align:center;" colspan="4"><b>Outdoor Scenario</b></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">Input Image</td>
+    <td style="text-align:center;" colspan="3">Output Image</td>
+  </tr>
+  <tr>
+    <td><img src="assets/editing_scenarios/outdoor/1/source.jpg"></td>
+    <td><img src="assets/editing_scenarios/outdoor/1/hat1.png"></td>
+    <td><img src="assets/editing_scenarios/outdoor/1/hat2.png"></td>              
+    <td><img src="assets/editing_scenarios/outdoor/1/grass.png"></td>
+  </tr>
+  <tr>
+    <td  style="vertical-align:middle;text-align:center;color:gray;">Simplified edited prompt</td>
+    <td  style="vertical-align:middle;text-align:center;">"Pirate hat”</td>
+    <td  style="vertical-align:middle;text-align:center;">"Tall chef hat"</td>
+    <td  style="vertical-align:middle;text-align:center;">"Leaves-covered grass"</td>
+  </tr>
+  <tr>
+    <td><img src="assets/editing_scenarios/outdoor/2/source.jpg"></td>
+    <td><img src="assets/editing_scenarios/outdoor/2/limousine.png"></td>
+    <td><img src="assets/editing_scenarios/outdoor/2/roadster.png"></td>              
+    <td><img src="assets/editing_scenarios/outdoor/2/graffiti.png"></td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle;text-align:center;color:gray;">Simplified edited prompt</td>
+    <td  style="vertical-align:middle;text-align:center;">"Limousine”</td>
+    <td style="vertical-align:middle;text-align:center;">"Roadster"</td>
+    <td  style="vertical-align:middle;text-align:center;">"Graffiti"</td>
+  </tr>
+</table>
 
 
 
-### Various Editing Types
+
+<h3> Various Editing Types </h3>
 
 <p align="center">
 <img src="assets/editing_types.png"/>  
@@ -87,7 +86,7 @@ Mask-Based Attention-Adjusted Guidance
 
 
 
-### Controllable Granularity  Localized Editing  
+<h3> Controllable Granularity  Localized Editing </h3>  
 
 
 
@@ -97,7 +96,7 @@ Mask-Based Attention-Adjusted Guidance
 
 
 
-## MAG-Bench
+<h2> MAG-Bench </h2>
 
 
 
@@ -107,4 +106,7 @@ Mask-Based Attention-Adjusted Guidance
 
 
 
-## Citation
+<h2> Citation </h2>
+
+
+
