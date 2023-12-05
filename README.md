@@ -24,17 +24,17 @@ Mask-Based Attention-Adjusted Guidance
 <div>
   <table  align="center" border="1" width="100%" style="max-width: auto; text-align:center; margin: auto">
     <tr>
-      <td width="120px" style="vertical-align:middle;text-align:center;" colspan="4"><b>Indoor Scenario</b></td>
+      <td width="130px" style="vertical-align:middle;text-align:center;" colspan="4"><b>Indoor Scenario</b></td>
     </tr>
     <tr>
-      <td  width="120px"style="vertical-align:middle;text-align:center;color:grey;">Input Image</td>
-      <td  width="120px"  style="vertical-align:middle;text-align:center;color:grey;" colspan="3">Output Image</td>
+      <td  width="130px"style="vertical-align:middle;text-align:center;color:grey;">Input Image</td>
+      <td  width="130px"  style="vertical-align:middle;text-align:center;color:grey;" colspan="3">Output Image</td>
     </tr>
     <tr>
-      <td  width="120px" align="center" style="vertical-align:middle;"><img src="assets/editing_scenarios/indoor/source.jpg"  style="width: 120px; height: 120px;margin:0;padding=0;"></td>
-      <td   width="120px" align="center"><img src="assets/editing_scenarios/indoor/sofa.png" style="width: 120px; height: 120px;margin:0;padding=0;"></td>
-      <td  width="120px" align="center"><img src="assets/editing_scenarios/indoor/table.png" style="width: 120px; height: 120px;margin:0;padding=0;"></td>              
-      <td  width="120px" align="center"><img src="assets/editing_scenarios/indoor/carpet.png" style="width: 120px; height: 120px;margin:0;padding=0;"></td>
+      <td  width="130px" align="center" style="vertical-align:middle;"><img src="assets/editing_scenarios/indoor/source.jpg"  style="width: 130px; height: 120px;margin:0;padding=0;"></td>
+      <td   width="130px" align="center"><img src="assets/editing_scenarios/indoor/sofa.png" style="width: 120px; height: 120px;margin:0;padding=0;"></td>
+      <td  width="130px" align="center"><img src="assets/editing_scenarios/indoor/table.png" style="width: 120px; height: 120px;margin:0;padding=0;"></td>              
+      <td  width="130px" align="center"><img src="assets/editing_scenarios/indoor/carpet.png" style="width: 120px; height: 120px;margin:0;padding=0;"></td>
     </tr>
     <tr>
       <td  style="vertical-align:middle;text-align:center;color:grey;">Simplified edited prompt</td>
