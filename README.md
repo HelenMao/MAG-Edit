@@ -144,14 +144,10 @@ Mask-Based Attention-Adjusted Guidance
 
 
 
-<h3> Controllable Granularity  Localized Editing </h3>  
-
-
-
-
-
-
-
+<h3> Other Applications</h3>  
+<p align="center">
+<img src="assets/other_apps.jpg" width="1080px"/>  
+<br>
 
 
 
