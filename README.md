@@ -22,7 +22,7 @@ Mask-Based Attention-Adjusted Guidance
 
 <h3> Various Editing Scenarios </h3>
 <div>
-  <table  align="center" border="1" width="100%" style="max-width: 580px; text-align:center; margin: auto">
+  <table  align="center" border="1" width="100%" style="max-width: auto; text-align:center; margin: auto">
     <tr>
       <td width="120px" style="vertical-align:middle;text-align:center;" colspan="4"><b>Indoor Scenario</b></td>
     </tr>
