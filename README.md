@@ -5,6 +5,11 @@ This repository is the official implementation of MAG-Edit.
 MAG-Edit: Localized Image Editing in Complex Scenarios via
 Mask-Based Attention-Adjusted Guidance  
 
+[![Project Website](https://img.shields.io/badge/Project-Website-orange
+)](https://orannue.github.io/MAG-Edit/)
+[![arXiv](https://img.shields.io/badge/arXiv-XXXXX-red
+)]()
+
 <p align="center">
 <img src="assets/teaser.png"width="1080px"/>  
 <br>
