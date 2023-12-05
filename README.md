@@ -21,6 +21,7 @@ Mask-Based Attention-Adjusted Guidance
 <h2> Results </h2>
 
 <h3> Various Editing Scenarios </h3>
+<div>
   <table  align="center" border="1" width="100%" style="max-width: 580px; text-align:center; margin:0 auto">
     <tr>
       <td width="120px" style="vertical-align:middle;text-align:center;" colspan="4"><b>Indoor Scenario</b></td>
@@ -73,11 +74,13 @@ Mask-Based Attention-Adjusted Guidance
       <td  style="vertical-align:middle;text-align:center;"><b>With graffiti</b></td>
     </tr>
   </table>
+  </div>
 
 
 
 
 <h3> Various Editing Types </h3>
+
   <table align="center" border="1" width="100%" style="max-width: 650px; text-align:center; margin:0 auto">
     <tr>
       <td width="80px" style="vertical-align:middle;text-align:center;color:grey;">Editing Type</td>
