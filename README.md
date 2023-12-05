@@ -83,19 +83,19 @@ Mask-Based Attention-Adjusted Guidance
 
   <table align="center" border="1" width="100%" style="max-width: 650px; text-align:center; margin:0 auto">
     <tr>
-      <td width="80px" style="vertical-align:middle;text-align:center;color:grey;">Editing Type</td>
-      <td  width="80px" style="vertical-align:middle;text-align:center;color:grey;"colspan="2">Object Attribute Manipulation</td>
-      <td  width="80px" style="vertical-align:middle;text-align:center;color:grey;">Object Replacement</td>
-      <td  width="80px" style="vertical-align:middle;text-align:center;color:grey;">Object Addition</td>
-      <td  width="80px" style="vertical-align:middle;text-align:center;color:grey;">Object Removal</td>
+      <td width="100px" style="vertical-align:middle;text-align:center;color:grey;">Editing Type</td>
+      <td  width="100px" style="vertical-align:middle;text-align:center;color:grey;"colspan="2">Object Attribute Manipulation</td>
+      <td  width="100px" style="vertical-align:middle;text-align:center;color:grey;">Object Replacement</td>
+      <td  width="100px" style="vertical-align:middle;text-align:center;color:grey;">Object Addition</td>
+      <td  width="100px" style="vertical-align:middle;text-align:center;color:grey;">Object Removal</td>
     </tr>
     <tr>
-      <td width="80px" style="vertical-align:middle;" align="center"><img src="assets/editing_type/1/source.png" style="width: 80px; height: auto;margin:0;padding=0;"></td>
-      <td width="80px" style="vertical-align:middle;" align="center"><img src="assets/editing_type/1/colorful.png" style="width: 80px; height: auto;margin:0;padding=0;"></td>
-      <td width="80px" style="vertical-align:middle;" align="center"><img src="assets/editing_type/1/redwine.png" style="width: 80px; height: auto;margin:auto;padding=auto;"></td>              
-      <td width="80px" style="vertical-align:middle;" align="center"><img src="assets/editing_type/1/bowl.png" style="width: 80px; height: 80px;margin:0;padding=0;"></td>
-      <td width="80px" style="vertical-align:middle;" align="center"><img src="assets/editing_type/1/butterfly.png" style="width: 80px; height: 80px;margin:0;padding=0;"></td>
-      <td width="80px" style="vertical-align:middle;" align="center"><img src="assets/editing_type/1/remove.png" style="width: 80px; height: 80px;margin:0;padding=0;"></td>
+      <td width="100px" style="vertical-align:middle;" align="center"><img src="assets/editing_type/1/source.png" style="width: 80px; height: auto;margin:0;padding=0;"></td>
+      <td width="100px" style="vertical-align:middle;" align="center"><img src="assets/editing_type/1/colorful.png" style="width: 80; height: auto;margin:0;padding=0;"></td>
+      <td width="100px" style="vertical-align:middle;" align="center"><img src="assets/editing_type/1/redwine.png" style="width: 80; height: auto;margin:0;padding=0;"></td>          
+      <td width="100px" style="vertical-align:middle;" align="center"><img src="assets/editing_type/1/bowl.png" style="width: 80px; height: 80px;margin:0;padding=0;"></td>
+      <td width="100px" style="vertical-align:middle;" align="center"><img src="assets/editing_type/1/butterfly.png" style="width: 80px; height: 80px;margin:0;padding=0;"></td>
+      <td width="100px" style="vertical-align:middle;" align="center"><img src="assets/editing_type/1/remove.png" style="width: 80px; height: 80px;margin:0;padding=0;"></td>
     </tr>
     <tr>
       <td  style="vertical-align:middle;text-align:center;color:grey;font-size=5px;">Simplified edited prompt</td>
