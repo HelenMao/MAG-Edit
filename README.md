@@ -4,8 +4,7 @@ This repository is the official implementation of MAG-Edit.
 
 MAG-Edit: Localized Image Editing in Complex Scenarios via
 Mask-Based Attention-Adjusted Guidance  
-
-
+<br/>
 [Qi Mao](https://sites.google.com/view/qi-mao/),  
 [Lan Chen](), 
 [Yuchao Gu](https://ycgu.site/), 
