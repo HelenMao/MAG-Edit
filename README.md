@@ -5,6 +5,16 @@ This repository is the official implementation of MAG-Edit.
 MAG-Edit: Localized Image Editing in Complex Scenarios via
 Mask-Based Attention-Adjusted Guidance  
 
+
+[Qi Mao](https://sites.google.com/view/qi-mao/),  
+[Lan Chen](), 
+[Yuchao Gu](https://ycgu.site/), 
+[Zhen Fang](),
+[Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/), 
+[Mike Zheng Shou](https://sites.google.com/view/showlab)
+<br/>
+
+
 [![Project Website](https://img.shields.io/badge/Project-Website-orange
 )](https://orannue.github.io/MAG-Edit/)
 [![arXiv](https://img.shields.io/badge/arXiv-XXXXX-red
