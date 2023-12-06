@@ -20,12 +20,17 @@ Mask-Based Attention-Adjusted Guidance
 ## TODO:
 
 - [ ] Release Code
-- [ ] Release Demo
+- [ ] Release MAG-Edit paper and project page
 
 
 <h2> Results </h2>
 
 <h3> Various Editing Scenarios </h3>
+<p align="center">
+<img src="assets/editing_scenarios.png"/>  
+</p>
+
+<!--
 <div>
   <table  align="center" border="1" width="100%" style="max-width: auto; text-align:center; margin: auto">
     <tr>
@@ -80,12 +85,17 @@ Mask-Based Attention-Adjusted Guidance
     </tr>
   </table>
   </div>
-
+-->
 
 
 
 <h3> Various Editing Types </h3>
+<p align="center">
+<img src="assets/editing_types.png"/>  
+</p>
 
+
+<!--
   <table align="center" border="1" width="100%" style="max-width: 650px; text-align:center; margin:0 auto">
     <tr>
       <td width="120px" style="vertical-align:middle;text-align:center;color:grey;">Editing Type</td>
@@ -144,7 +154,7 @@ Mask-Based Attention-Adjusted Guidance
       <td style="vertical-align:middle;text-align:center;">Remove a <b>strawberry</b></td>      
     </tr>  
   </table>
-
+-->
 
 
 
