@@ -4,6 +4,15 @@ This repository is the official implementation of MAG-Edit.
 
 MAG-Edit: Localized Image Editing in Complex Scenarios via
 Mask-Based Attention-Adjusted Guidance  
+<br/>
+[Qi Mao](https://sites.google.com/view/qi-mao/),  
+[Lan Chen](), 
+[Yuchao Gu](https://ycgu.site/), 
+[Zhen Fang](),
+[Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/), 
+[Mike Zheng Shou](https://sites.google.com/view/showlab)
+<br/>
+
 
 [![Project Website](https://img.shields.io/badge/Project-Website-orange
 )](https://orannue.github.io/MAG-Edit/)
@@ -20,12 +29,38 @@ Mask-Based Attention-Adjusted Guidance
 ## TODO:
 
 - [ ] Release Code
-- [ ] Release Demo
+- [ ] Release MAG-Edit paper and project page
 
 
 <h2> Results </h2>
+<h3> Qualitative Comparison </h3>
+<p align="center">
+<font size=4>Comparison with <a href="https://github.com/omriav/blended-latent-diffusion">Blended LD</a> and <a href="https://arxiv.org/abs/2210.11427">DiffEdit</a></font>
+</p>
+<p align="center">
+<img src="assets/qualitative_cmp/mask.png"/>  
+</p>
+
+<p align="center">
+<font size=4>Comparison with <a href="https://github.com/google/prompt-to-prompt">P2P</a> and <a href="https://github.com/MichalGeyer/plug-and-play">PnP</a></font>
+</p>
+<p align="center">
+<img src="assets/qualitative_cmp/p2ppnp.png"/>  
+</p>
+
+<p align="center">
+<font size=4>Comparison with <a href="https://github.com/timothybrooks/instruct-pix2pix">InstructPix2Pix</a> and <a href="https://github.com/OSU-NLP-Group/MagicBrush">MagicBrush</a></font>
+</p>
+<p align="center">
+<img src="assets/qualitative_cmp/p2ppnp.png"/>  
+</p>
 
 <h3> Various Editing Scenarios </h3>
+<p align="center">
+<img src="assets/editing_scenarios.png"/>  
+</p>
+
+<!--
 <div>
   <table  align="center" border="1" width="100%" style="max-width: auto; text-align:center; margin: auto">
     <tr>
@@ -80,12 +115,17 @@ Mask-Based Attention-Adjusted Guidance
     </tr>
   </table>
   </div>
-
+-->
 
 
 
 <h3> Various Editing Types </h3>
+<p align="center">
+<img src="assets/editing_types.png"/>  
+</p>
 
+
+<!--
   <table align="center" border="1" width="100%" style="max-width: 650px; text-align:center; margin:0 auto">
     <tr>
       <td width="120px" style="vertical-align:middle;text-align:center;color:grey;">Editing Type</td>
@@ -144,7 +184,7 @@ Mask-Based Attention-Adjusted Guidance
       <td style="vertical-align:middle;text-align:center;">Remove a <b>strawberry</b></td>      
     </tr>  
   </table>
-
+-->
 
 
 
