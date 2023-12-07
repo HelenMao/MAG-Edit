@@ -33,6 +33,27 @@ Mask-Based Attention-Adjusted Guidance
 
 
 <h2> Results </h2>
+<h3> Qualitative Comparison </h3>
+<p align="center">
+Comparison with <a href="https://github.com/omriav/blended-latent-diffusion">Blended LD</a> and <a href="https://arxiv.org/abs/2210.11427">DiffEdit</a>
+</p>
+<p align="center">
+<img src="assets/qualitative_cmp/mask.png"/>  
+</p>
+
+<p align="center">
+Comparison with <a href="https://github.com/google/prompt-to-prompt">P2P</a> and <a href="https://github.com/MichalGeyer/plug-and-play">PnP</a>
+</p>
+<p align="center">
+<img src="assets/qualitative_cmp/p2ppnp.png"/>  
+</p>
+
+<p align="center">
+Comparison with <a href="https://github.com/timothybrooks/instruct-pix2pix">InstructPix2Pix</a> and <a href="https://github.com/OSU-NLP-Group/MagicBrush">MagicBrush</a>
+</p>
+<p align="center">
+<img src="assets/qualitative_cmp/p2ppnp.png"/>  
+</p>
 
 <h3> Various Editing Scenarios </h3>
 <p align="center">
