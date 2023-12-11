@@ -9,7 +9,6 @@ Mask-Based Attention-Adjusted Guidance
 [Lan Chen](), 
 [Yuchao Gu](https://ycgu.site/), 
 [Zhen Fang](),
-[Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/), 
 [Mike Zheng Shou](https://sites.google.com/view/showlab)
 <br/>
 
