@@ -51,7 +51,7 @@ Mask-Based Attention-Adjusted Guidance
 <font size=4>Comparison with <a href="https://github.com/timothybrooks/instruct-pix2pix">InstructPix2Pix</a> and <a href="https://github.com/OSU-NLP-Group/MagicBrush">MagicBrush</a></font>
 </p>
 <p align="center">
-<img src="assets/qualitative_cmp/p2ppnp.png"/>  
+<img src="assets/qualitative_cmp/instructmagic.png"/>  
 </p>
 
 <h3> Various Editing Scenarios </h3>
