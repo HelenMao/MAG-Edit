@@ -151,7 +151,7 @@ Mask-Based Attention-Adjusted Guidance
         <b>MAG-Edit(Ours)</b>
       </td>
       <td align="center">
-        Blended Latent Diffusion
+        Blended LD
       </td>
       <td  align="center">
         DiffEdit
