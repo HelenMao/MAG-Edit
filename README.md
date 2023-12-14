@@ -41,6 +41,18 @@ Mask-Based Attention-Adjusted Guidance
 </p>
 
 
+
+
+
+
+
+
+<h3> Other Applications</h3>  
+<p align="center">
+<img src="assets/other_apps.jpg"/>  
+<br>
+
+<h3> Qualitative Comparison </h3>
 <p align="center">
   <table align="center"   style="text-align:center;">
     <tr>
@@ -65,55 +77,42 @@ Mask-Based Attention-Adjusted Guidance
         Green <br>pillow
       </td>
       <td style="width: 100px; height:100px;padding:0;" align="center">
-        <img src="assets/compare/p2ppnp/1/source.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/p2ppnp/1/source.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;display:block;" hspace="0" vspace="0">
       </td>
       <td style="width:100px; height: 100px;padding:0;" align="center">
-        <img src="assets/compare/p2ppnp/1/ours.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/p2ppnp/1/ours.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;display:block;" hspace="0" vspace="0">
       </td>
       <td style="width: 100px; height: 100px;padding:0;" align="center">
-        <img src="assets/compare/p2ppnp/1/p2p.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/p2ppnp/1/p2p.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;display:block;" hspace="0" vspace="0">
       </td>          
       <td style="width: 100px; height: 100px;padding:0;" align="center">
-        <img src="assets/compare/p2ppnp/1/pnp.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/p2ppnp/1/pnp.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;display:block;" hspace="0" vspace="0">
       </td>
     </tr>
   </table>
-
-
-
-
-
-<h3> Other Applications</h3>  
-<p align="center">
-<img src="assets/other_apps.jpg"/>  
-<br>
-
-<h3> Qualitative Comparison </h3>
+<!--
 <font size=4>Comparison with <a href="https://github.com/omriav/blended-latent-diffusion">Blended LD</a> and <a href="https://arxiv.org/abs/2210.11427">DiffEdit</a></font>
 </p>
 <p align="center">
 <img src="assets/qualitative_cmp/mask.png"/>  
 </p>
-
 <p align="center">
 <font size=4>Comparison with <a href="https://github.com/google/prompt-to-prompt">P2P</a> and <a href="https://github.com/MichalGeyer/plug-and-play">PnP</a></font>
 </p>
 <p align="center">
 <img src="assets/qualitative_cmp/p2ppnp.png"/>  
 </p>
-
 <p align="center">
 <font size=4>Comparison with <a href="https://github.com/timothybrooks/instruct-pix2pix">InstructPix2Pix</a> and <a href="https://github.com/OSU-NLP-Group/MagicBrush">MagicBrush</a></font>
 </p>
 <p align="center">
 <img src="assets/qualitative_cmp/instructimagic.png"/>  
 </p>
-
 <h3> Various Editing Scenarios </h3>
 <p align="center">
 <img src="assets/editing_scenarios.png"/>  
 </p>
-
+-->
 
 
 
