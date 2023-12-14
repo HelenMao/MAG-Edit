@@ -64,16 +64,16 @@ Mask-Based Attention-Adjusted Guidance
       <td style="padding:0;" align="center">
         Green <br>pillow
       </td>
-      <td style="width: 105px; height:105px;padding:0;" align="center">
+      <td style="width: 100px; height:100px;padding:0;" align="center">
         <img src="assets/compare/p2ppnp/1/source.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>
-      <td style="width:105px; height: 105px;padding:0;" align="center">
+      <td style="width:100px; height: 100px;padding:0;" align="center">
         <img src="assets/compare/p2ppnp/1/ours.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>
-      <td style="width: 105px; height: 105px;padding:0;" align="center">
+      <td style="width: 100px; height: 100px;padding:0;" align="center">
         <img src="assets/compare/p2ppnp/1/p2p.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>          
-      <td style="width: 105px; height: 105px;padding:0;" align="center">
+      <td style="width: 100px; height: 100px;padding:0;" align="center">
         <img src="assets/compare/p2ppnp/1/pnp.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>
     </tr>
