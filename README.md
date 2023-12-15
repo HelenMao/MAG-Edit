@@ -72,7 +72,7 @@ compare with training-free methods
       </td>
     </tr>
     <tr>
-      <td style="padding:0;" align="center">
+      <td style="width: 70px; height:90px;padding:0;" align="center">
         Green <br>pillow
       </td>
       <td style="width: 90px; height:90px;padding:0;" align="center">
@@ -95,7 +95,7 @@ compare with training-free methods
       </td>     
     </tr>
     <tr>
-      <td style="padding:0;" align="center">
+      <td style="width: 70px; height:90px;padding:0;" align="center">
         Denim <br>pants
       </td>
       <td style="width: 90px; height:90px;padding:0;" align="center">
@@ -118,7 +118,7 @@ compare with training-free methods
       </td>     
     </tr>
     <tr>
-      <td style="padding:0;" align="center">
+      <td style="width: 70px; height:90px;padding:0;" align="center">
         White <br>bird
       </td>
       <td style="width: 90px; height:90px;padding:0;" align="center">
@@ -141,7 +141,7 @@ compare with training-free methods
       </td>     
     </tr>
     <tr>
-      <td style="padding:0;" align="center">
+      <td style="width: 70px; height:90px;padding:0;" align="center">
         Slices of <br>steak
       </td>
       <td style="width: 90px; height:90px;" align="center">
