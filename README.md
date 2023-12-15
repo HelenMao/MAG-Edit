@@ -56,7 +56,7 @@ compare with training-free methods
        Source Image
       </td>
       <td  align="center">
-        <b>MAG-Edit(Ours)</b>
+        <b>MAG-Edit</b>
       </td>
       <td align="center">
        <a href="https://github.com/omriav/blended-latent-diffusion">Blended LD</a>
