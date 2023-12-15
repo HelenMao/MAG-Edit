@@ -56,10 +56,10 @@ compare with training-free methods
        Source <br> Image
       </td>
       <td  align="center">
-        <b>MAG-Edit</b>
+        <b>Ours</b>
       </td>
       <td align="center">
-       <a href="https://github.com/omriav/blended-latent-diffusion">Blended LD</a>
+       <a href="https://github.com/omriav/blended-latent-diffusion">Blended <br> LD</a>
       </td>
       <td  align="center">
       <a href="https://arxiv.org/abs/2210.11427">DiffEdit</a>
