@@ -53,7 +53,7 @@ compare with training-free methods
        Simplified <br>Prompt
       </td>
       <td align="center">
-       Source Image
+       Source <br> Image
       </td>
       <td  align="center">
         <b>MAG-Edit</b>
