@@ -77,22 +77,22 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
         Green <br>pillow
       </td>
       <td  align="center">
-        <img src="assets/compare/training-free/1/source.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/1/source.png" >
       </td>
       <td style align="center">
-        <img src="assets/compare/training-free/1/ours.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/1/ours.png" >
       </td>
       <td  align="center">
-        <img src="assets/compare/training-free/1/blended.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/1/blended.png" >
       </td>          
       <td  align="center">
-        <img src="assets/compare/training-free/1/diffedit.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/1/diffedit.png" >
       </td>
       <td  align="center">
-        <img src="assets/compare/training-free/1/p2p.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/1/p2p.png">
       </td>      
       <td  align="center">
-        <img src="assets/compare/training-free/1/pnp.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/1/pnp.png" >
       </td>     
     </tr>
     <tr>
@@ -100,22 +100,22 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
         Denim <br>pants
       </td>
       <td align="center">
-        <img src="assets/compare/training-free/2/source.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/2/source.png" >
       </td>
       <td  align="center">
-        <img src="assets/compare/training-free/2/ours.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/2/ours.png" >
       </td>
       <td  align="center">
-        <img src="assets/compare/training-free/2/blended.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/2/blended.png" >
       </td>          
       <td  align="center">
-        <img src="assets/compare/training-free/2/diffedit.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/2/diffedit.png" >
       </td>
       <td  align="center">
-        <img src="assets/compare/training-free/2/p2p.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/2/p2p.png" >
       </td>      
       <td align="center">
-        <img src="assets/compare/training-free/2/pnp.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/2/pnp.png" >
       </td>     
     </tr>
     <tr>
@@ -123,22 +123,22 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
         White <br>bird
       </td>
       <td  align="center">
-        <img src="assets/compare/training-free/3/source.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/3/source.png" >
       </td>
       <td  align="center">
-        <img src="assets/compare/training-free/3/ours.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/3/ours.png" >
       </td>
       <td  align="center">
-        <img src="assets/compare/training-free/3/blended.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/3/blended.png">
       </td>          
       <td  align="center">
-        <img src="assets/compare/training-free/3/diffedit.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/3/diffedit.png" >
       </td>
       <td  align="center">
-        <img src="assets/compare/training-free/3/p2p.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/3/p2p.png" >
       </td>      
       <td align="center">
-        <img src="assets/compare/training-free/3/pnp.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/3/pnp.png" >
       </td>     
     </tr>
     <tr>
@@ -146,22 +146,22 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
         Slices of <br>steak
       </td>
       <td  align="center">
-        <img src="assets/compare/training-free/4/source.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/4/source.png" >
       </td>
       <td align="center">
-        <img src="assets/compare/training-free/4/ours.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/4/ours.png" >
       </td>
       <td align="center">
-        <img src="assets/compare/training-free/4/blended.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/4/blended.png" >
       </td>          
       <td  align="center">
-        <img src="assets/compare/training-free/4/diffedit.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/4/diffedit.png" >
       </td>
       <td align="center">
-        <img src="assets/compare/training-free/4/p2p.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/4/p2p.png" >
       </td>      
       <td align="center">
-        <img src="assets/compare/training-free/4/pnp.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/4/pnp.png" >
       </td>     
   </table>
 
