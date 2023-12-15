@@ -45,7 +45,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 <br>
 
 <h2> Qualitative Comparison </h2>
-compare with training-free methods
+<font size=4>Comparison with training-free methods</font>
 
 <p align="center">
   <table align="center"   style="text-align:center;">
@@ -192,11 +192,12 @@ compare with training-free methods
 
 
 
-<font size=4>Comparison with <a href="https://github.com/omriav/blended-latent-diffusion">Blended LD</a> and <a href="https://arxiv.org/abs/2210.11427">DiffEdit</a></font>
+
 </p>
 <p align="center">
-<img src="assets/qualitative_cmp/mask.png"/>  
+<img src="assets/qualitative_cmp/1.png"/>  
 </p>
+<!--
 <p align="center">
 <font size=4>Comparison with <a href="https://github.com/google/prompt-to-prompt">P2P</a> and <a href="https://github.com/MichalGeyer/plug-and-play">PnP</a></font>
 </p>
@@ -213,7 +214,7 @@ compare with training-free methods
 <p align="center">
 <img src="assets/editing_scenarios.png"/>  
 </p>
-
+-->
 
 
 
