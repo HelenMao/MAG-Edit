@@ -1,16 +1,12 @@
-<h1> MAG-Edit </h1>
+### MAG-Edit: Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance  
 
 This repository is the official implementation of MAG-Edit.
 
-MAG-Edit: Localized Image Editing in Complex Scenarios via
-Mask-Based Attention-Adjusted Guidance  
-<br/>
 [Qi Mao](https://sites.google.com/view/qi-mao/),  
 [Lan Chen](), 
 [Yuchao Gu](https://ycgu.site/), 
 [Zhen Fang](),
 [Mike Zheng Shou](https://sites.google.com/view/showlab)
-<br/>
 
 
 [![Project Website](https://img.shields.io/badge/Project-Website-orange
@@ -25,6 +21,13 @@ Mask-Based Attention-Adjusted Guidance
 (d)  <a href="https://github.com/MichalGeyer/plug-and-play">Plug-and-play</a>  (e) P2P+Blend (f) PnP+Blend</em>
 </p>
 
+# :bookmark: Abstract
+<b>TL; DR: <font color="red">MAG-Edit</font> first method specifically designed to
+address localized image editing in complex scenarios without training.</b>
+
+<details><summary>CLICK for the full abstract</summary>
+Recent diffusion-based image editing approaches have exhibited impressive editing capabilities in images with simple compositions. However, localized editing in complex scenarios has not been well-studied in the literature, despite its growing real-world demands. Existing mask-based inpainting methods fall short of retaining the underlying structure within the edit region. Meanwhile, mask-free attention-based methods often exhibit editing leakage and misalignment in more complex compositions. In this work, we develop MAG-Edit, a training-free, inference-stage optimization method, which enables localized image editing in complex scenarios. In particular, MAG-Edit optimizes the noise latent feature in diffusion models by maximizing two mask-based cross-attention constraints of the edit token, which in turn gradually enhances the local alignment with the desired prompt. Extensive quantitative and qualitative experiments demonstrate the effectiveness of our method in achieving both text alignment and structure preservation for localized editing within complex scenarios.
+</details>
 
 ## TODO:
 
@@ -151,7 +154,7 @@ Mask-Based Attention-Adjusted Guidance
         <b>MAG-Edit(Ours)</b>
       </td>
       <td align="center">
-        Blended LD
+        Blended <br> LD
       </td>
       <td  align="center">
         DiffEdit
@@ -232,13 +235,13 @@ Mask-Based Attention-Adjusted Guidance
       <td align="center">
        Source Image
       </td>
-      <td  align="center">
+      <td  align="center"style="width: 105px; height:105px;padding:0;"
         <b>MAG-Edit(Ours)</b>
       </td>
-      <td align="center">
+      <td align="center"style="width: 105px; height:105px;padding:0;">
         InstructPix2Pix
       </td>
-      <td  align="center">
+      <td  align="center"style="width: 105px; height:105px;padding:0;">
         MagicBrush
       </td>
     </tr>
