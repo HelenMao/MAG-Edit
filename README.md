@@ -27,7 +27,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 
 ## :pencil: Changelog
 - 2023.12.19 Release Project Page and Paper!
-## :bulb: TODO:
+## 💡TODO:
 
 - [ ] Release Code
 - [x] Release MAG-Edit paper and project page
