@@ -167,23 +167,20 @@ compare with training-free methods
 
 <table class="center">
 <tr>
-  <td style="text-align:center;"><b>Input Video</b></td>
-  <td style="text-align:center;" colspan="3"><b>Output Video</b></td>
+  <td style="text-align:center;"><b>Simplified Prompt</b></td>
+  <td style="text-align:center;"><b>Source Image</b></td>
+  <td style="text-align:center;" ><b>MAG-Edit</b></td>
+  <td style="text-align:center;" ><b>P2P</b></td>
+  <td style="text-align:center;" ><b>PnP</b></td>li 
+<tr>
+  <td>Green pillow</td>
+  <td><img src="assets/compare/training-free/1/source.png"></td>
+  <td><img src="assets/compare/training-free/1/ours.png"></td>
+  <td><img src="assets/compare/training-free/1/p2p.png"></td>              
+  <td><img src="assets/compare/training-free/1/pnp.png"></td>
 </tr>
 <tr>
-  <td><img src="assets/compare/training-free/4/ours.png"></td>
-  <td><img src="assets/compare/training-free/4/ours.png"></td>
-  <td><img src="assets/compare/training-free/4/ours.png"></td>              
-  <td><img src="assets/compare/training-free/4/ours.png"></td>
-</tr>
-<tr>
-  <td width=25% style="text-align:center;color:gray;">"A man is skiing"</td>
-  <td width=25% style="text-align:center;">"Spider Man is skiing on the beach, cartoon style”</td>
-  <td width=25% style="text-align:center;">"Wonder Woman, wearing a cowboy hat, is skiing"</td>
-  <td width=25% style="text-align:center;">"A man, wearing pink clothes, is skiing at sunset"</td>
-</tr>
-
-<tr>
+  <td style="text-align:center;">Slices of steak</td>
   <td><img src="assets/compare/training-free/4/ours.png"></td>
   <td><img src="assets/compare/training-free/4/ours.png"></td>
   <td><img src="assets/compare/training-free/4/ours.png"></td>              
