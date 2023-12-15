@@ -168,7 +168,7 @@ compare with training-free methods
 <table class="center">
 <tr >
   <td style="text-align:center; width="80px" height="60px""><b>Simplified <br> Prompt</b></td>
-  <td style="text-align:center;"><b>Source Image</b></td>
+  <td style="text-align:center;"><b>Source  Image</b></td>
   <td style="text-align:center;" ><b>MAG-Edit</b></td>
   <td style="text-align:center;" ><b>P2P</b></td>
   <td style="text-align:center;" ><b>PnP</b></td>li 
@@ -191,7 +191,7 @@ compare with training-free methods
 
 
 
-<!--
+
 <font size=4>Comparison with <a href="https://github.com/omriav/blended-latent-diffusion">Blended LD</a> and <a href="https://arxiv.org/abs/2210.11427">DiffEdit</a></font>
 </p>
 <p align="center">
@@ -213,7 +213,7 @@ compare with training-free methods
 <p align="center">
 <img src="assets/editing_scenarios.png"/>  
 </p>
--->
+
 
 
 
