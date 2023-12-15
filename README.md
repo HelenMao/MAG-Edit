@@ -17,7 +17,7 @@ This repository is the official implementation of MAG-Edit.
 (d)  <a href="https://github.com/MichalGeyer/plug-and-play">Plug-and-play</a>  (e) P2P+Blend (f) PnP+Blend</em>
 </p>
 
-# :bookmark: Abstract
+## :bookmark: Abstract
 <b>TL; DR: <font color="red">MAG-Edit</font> first method specifically designed to
 address localized image editing in complex scenarios without training.</b>
 
@@ -25,33 +25,26 @@ address localized image editing in complex scenarios without training.</b>
 Recent diffusion-based image editing approaches have exhibited impressive editing capabilities in images with simple compositions. However, localized editing in complex scenarios has not been well-studied in the literature, despite its growing real-world demands. Existing mask-based inpainting methods fall short of retaining the underlying structure within the edit region. Meanwhile, mask-free attention-based methods often exhibit editing leakage and misalignment in more complex compositions. In this work, we develop MAG-Edit, a training-free, inference-stage optimization method, which enables localized image editing in complex scenarios. In particular, MAG-Edit optimizes the noise latent feature in diffusion models by maximizing two mask-based cross-attention constraints of the edit token, which in turn gradually enhances the local alignment with the desired prompt. Extensive quantitative and qualitative experiments demonstrate the effectiveness of our method in achieving both text alignment and structure preservation for localized editing within complex scenarios.
 </details>
 
-## TODO:
+## :pencil: Changelog
+- 2023.12.19 Release Project Page and Paper!
+## :calendar: TODO:
 
 - [ ] Release Code
-- [ ] Release MAG-Edit paper and project page
+- [x] Release MAG-Edit paper and project page
 
-
-<h2> Results </h2>
 
 <p align="center">
-<h3> Various Editing Types </h3>
+<h2> Various Editing Types </h2>
 <p align="center">
 <img src="assets/editing_types.png"/>  
 </p>
 
-
-
-
-
-
-
-
-<h3> Other Applications</h3>  
+<h2> Other Applications</h2>  
 <p align="center">
 <img src="assets/other_apps.jpg"/>  
 <br>
 
-<h3> Qualitative Comparison </h3>
+<h2> Qualitative Comparison </h2>
 <p align="center">
   <table align="center"   style="text-align:center;">
     <tr style="background-color: #F5F5F5">
@@ -324,7 +317,22 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 
 
 
-<h2> Citation </h2>
+## :triangular_flag_on_post: Citation 
+
+```
+@article{qi2023MAG-Edit,
+      title={MAG-Edit: Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance  }, 
+      author={Qi Mao and Lan Chen and Yuchao Gu and Zhen Fang and Mike Zheng Shou},
+      year={2023},
+      journal={arXiv:XXXXX},
+}
+``` 
+
+
+## :revolving_hearts: Acknowledgements
+
+This repository borrows heavily from [prompt-to-prompt](https://github.com/google/prompt-to-prompt/). Thanks to the authors for sharing their code and models.
+
 
 
 
