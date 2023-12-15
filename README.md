@@ -27,7 +27,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 
 ## :pencil: Changelog
 - 2023.12.19 Release Project Page and Paper!
-## :calendar: TODO:
+## :date: TODO:
 
 - [ ] Release Code
 - [x] Release MAG-Edit paper and project page
@@ -59,16 +59,16 @@ compare with training-free methods
         <b>MAG-Edit(Ours)</b>
       </td>
       <td align="center">
-        [Blended LD]()
+        [Blended LD]("https://github.com/omriav/blended-latent-diffusion")
       </td>
       <td  align="center">
-        DiffEdit
+        [DiffEdit](https://arxiv.org/abs/2210.11427")
       </td>
       <td  align="center">
-        P2P
+        [P2P]("https://github.com/google/prompt-to-prompt")
       </td>
       <td  align="center">
-        PnP
+        [PnP]("https://github.com/MichalGeyer/plug-and-play")
       </td>
     </tr>
     <tr>
@@ -85,7 +85,7 @@ compare with training-free methods
         <img src="assets/compare/training-free/1/blended.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>          
       <td style="width: 105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/training-free/1/diffEdit.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/1/diffedit.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>
       <td style="width: 105px; height: 105px;padding:0;" align="center">
         <img src="assets/compare/training-free/1/p2p.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
@@ -108,7 +108,7 @@ compare with training-free methods
         <img src="assets/compare/training-free/2/blended.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>          
       <td style="width: 105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/training-free/2/diffEdit.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/2/diffedit.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>
       <td style="width: 105px; height: 105px;padding:0;" align="center">
         <img src="assets/compare/training-free/2/p2p.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
@@ -131,7 +131,7 @@ compare with training-free methods
         <img src="assets/compare/training-free/3/blended.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>          
       <td style="width: 105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/training-free/3/diffEdit.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/3/diffedit.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>
       <td style="width: 105px; height: 105px;padding:0;" align="center">
         <img src="assets/compare/training-free/3/p2p.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
@@ -142,7 +142,7 @@ compare with training-free methods
     </tr>
     <tr>
       <td style="padding:0;" align="center">
-        Green <br>pillow
+        Slices of <br>steak
       </td>
       <td style="width: 105px; height:105px;padding:0;" align="center">
         <img src="assets/compare/training-free/4/source.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
@@ -154,7 +154,7 @@ compare with training-free methods
         <img src="assets/compare/training-free/4/blended.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>          
       <td style="width: 105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/training-free/4/diffEdit.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/4/diffedit.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>
       <td style="width: 105px; height: 105px;padding:0;" align="center">
         <img src="assets/compare/training-free/4/p2p.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
@@ -162,41 +162,7 @@ compare with training-free methods
       <td style="width: 105px; height: 105px;padding:0;" align="center">
         <img src="assets/compare/training-free/4/pnp.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>     
-    </tr>
-      <tr>
-      <td style="padding:0;" align="center">
-        White <br>bird
-      </td>
-      <td style="width: 105px; height:105px;padding:0;" align="center">
-        <img src="assets/compare/blend/3/source.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
-      </td>
-      <td style="width:105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/blend/3/ours.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
-      </td>
-      <td style="width: 105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/blend/3/blended.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
-      </td>          
-      <td style="width: 105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/blend/3/iedit.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
-      </td>
-    </tr>
-      <tr>
-         <td style="padding:0;" align="center">
-        Slices of steak
-      </td>
-      <td style="width: 105px; height:105px;padding:0;" align="center">
-        <img src="assets/compare/blend/4/source.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
-      </td>
-      <td style="width:105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/blend/4/ours.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
-      </td>
-      <td style="width: 105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/blend/4/blended.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
-      </td>          
-      <td style="width: 105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/blend/4/iedit.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
-      </td>
-    </tr> 
+
   </table>
 
 
