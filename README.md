@@ -49,26 +49,26 @@ compare with training-free methods
 <p align="center">
   <table align="center"   style="text-align:center;">
     <tr style="background-color: #F5F5F5">
-      <td align="center">
+      <td align="center"style="width: 90px; height:50px;">
        Simplified <br>Prompt
       </td>
-      <td align="center">
+      <td align="center"style="width: 90px; height:50px;;">
        Source Image
       </td>
-      <td  align="center">
+      <td  align="center"style="width: 90px; height:50px">
         <b>MAG-Edit(Ours)</b>
       </td>
-      <td align="center">
+      <td align="center"style="width: 90px; height:50px;">
        <a href="https://github.com/omriav/blended-latent-diffusion">Blended LD</a>
       </td>
-      <td  align="center">
-      <a href=https://arxiv.org/abs/2210.11427>DiffEdit</a>
+      <td  align="center"style="width: 90px; height:50px;">
+      <a href="https://arxiv.org/abs/2210.11427">DiffEdit</a>
       </td>
-      <td  align="center">
-      <a herf=https://github.com/google/prompt-to-prompt>P2P</a>
+      <td  align="center"style="width: 90px; height:50px;">
+      <a herf="https://github.com/google/prompt-to-prompt">P2P</a>
       </td>
-      <td  align="center">
-      <a herf=https://github.com/MichalGeyer/plug-and-play>PnP</a>
+      <td  align="center"style="width: 90px; height:50px;">
+      <a herf="https://github.com/MichalGeyer/plug-and-play">PnP</a>
       </td>
     </tr>
     <tr>
@@ -76,22 +76,22 @@ compare with training-free methods
         Green <br>pillow
       </td>
       <td style="width: 105px; height:105px;padding:0;" align="center">
-        <img src="assets/compare/training-free/1/source.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/1/source.png" style="margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>
       <td style="width:105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/training-free/1/ours.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/1/ours.png" style="margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>
       <td style="width: 105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/training-free/1/blended.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/1/blended.png" style="margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>          
       <td style="width: 105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/training-free/1/diffedit.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/1/diffedit.png" style="margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>
       <td style="width: 105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/training-free/1/p2p.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/1/p2p.png" style="margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>      
       <td style="width: 105px; height: 105px;padding:0;" align="center">
-        <img src="assets/compare/training-free/1/pnp.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
+        <img src="assets/compare/training-free/1/pnp.png" style="margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>     
     </tr>
     <tr>
@@ -144,22 +144,22 @@ compare with training-free methods
       <td style="padding:0;" align="center">
         Slices of <br>steak
       </td>
-      <td style="width: 105px; height:105px;padding:0;" align="center">
+      <td style="width: 105px; height:105px;" align="center">
         <img src="assets/compare/training-free/4/source.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>
-      <td style="width:105px; height: 105px;padding:0;" align="center">
+      <td style="width:105px; height: 105px;" align="center">
         <img src="assets/compare/training-free/4/ours.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>
-      <td style="width: 105px; height: 105px;padding:0;" align="center">
+      <td style="width: 105px; height: 105px;" align="center">
         <img src="assets/compare/training-free/4/blended.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>          
-      <td style="width: 105px; height: 105px;padding:0;" align="center">
+      <td style="width: 105px; height: 105px;" align="center">
         <img src="assets/compare/training-free/4/diffedit.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>
-      <td style="width: 105px; height: 105px;padding:0;" align="center">
+      <td style="width: 105px; height: 105px;" align="center">
         <img src="assets/compare/training-free/4/p2p.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>      
-      <td style="width: 105px; height: 105px;padding:0;" align="center">
+      <td style="width: 105px; height: 105px;" align="center">
         <img src="assets/compare/training-free/4/pnp.png" style="width: 100px; height: 100px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>     
 
