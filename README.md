@@ -165,6 +165,31 @@ compare with training-free methods
 
   </table>
 
+<table class="center">
+<tr>
+  <td style="text-align:center;"><b>Input Video</b></td>
+  <td style="text-align:center;" colspan="3"><b>Output Video</b></td>
+</tr>
+<tr>
+  <td><img src="assets/compare/training-free/4/ours.png"></td>
+  <td><img src="assets/compare/training-free/4/ours.png"></td>
+  <td><img src="assets/compare/training-free/4/ours.png"></td>              
+  <td><img src="assets/compare/training-free/4/ours.png"></td>
+</tr>
+<tr>
+  <td width=25% style="text-align:center;color:gray;">"A man is skiing"</td>
+  <td width=25% style="text-align:center;">"Spider Man is skiing on the beach, cartoon style”</td>
+  <td width=25% style="text-align:center;">"Wonder Woman, wearing a cowboy hat, is skiing"</td>
+  <td width=25% style="text-align:center;">"A man, wearing pink clothes, is skiing at sunset"</td>
+</tr>
+
+<tr>
+  <td><img src="assets/compare/training-free/4/ours.png"></td>
+  <td><img src="assets/compare/training-free/4/ours.png"></td>
+  <td><img src="assets/compare/training-free/4/ours.png"></td>              
+  <td><img src="assets/compare/training-free/4/ours.png"></td>
+</tr>
+</table>
 
 
 
