@@ -46,6 +46,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 
 <h2> Qualitative Comparison </h2>
 compare with training-free methods
+<!--
 <p align="center">
   <table align="center"   style="text-align:center;">
     <tr style="width: 85px; height:50px;padding:0;">
@@ -162,9 +163,8 @@ compare with training-free methods
       <td style="width: 85px; height: 85px;" align="center">
         <img src="assets/compare/training-free/4/pnp.png" style="width: 75px; height: 75px;margin:0;padding=0;vertical-align:middle;" hspace="0" vspace="0">
       </td>     
-
   </table>
-
+-->
 <table class="center">
 <tr >
   <td style="text-align:center; width="80px" height="60px""><b>Simplified <br> Prompt</b></td>
