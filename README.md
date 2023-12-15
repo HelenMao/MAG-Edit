@@ -18,7 +18,7 @@ This repository is the official implementation of MAG-Edit.
 </p>
 
 ## :bookmark: Abstract
-<b>TL; DR: <font color="red">MAG-Edit</font> first method specifically designed to
+<b>TL; DR: <font color="red">MAG-Edit</font> is the first method specifically designed to
 address localized image editing in complex scenarios without training.</b>
 
 <details><summary>CLICK for the full abstract</summary>
@@ -171,7 +171,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
   <td style="text-align:center;"><b>Source  Image</b></td>
   <td style="text-align:center;" ><b>MAG-Edit</b></td>
   <td style="text-align:center;" ><b>P2P</b></td>
-  <td style="text-align:center;" ><b>PnP</b></td>li 
+  <td style="text-align:center;" ><b>PnP</b></td>
 <tr>
   <td style="text-align:center;">Green <br> pillow</td>
   <td><img src="assets/compare/training-free/1/source.png" width="120px" height="120px"></td>
