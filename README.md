@@ -174,17 +174,17 @@ compare with training-free methods
   <td style="text-align:center;" ><b>PnP</b></td>li 
 <tr>
   <td style="text-align:center;">Green <br> pillow</td>
-  <td><img src="assets/compare/training-free/1/source.png" width="130px" height="130px"></td>
-  <td><img src="assets/compare/training-free/1/ours.png" width="130px" height="130px"></td>
-  <td><img src="assets/compare/training-free/1/p2p.png" width="130px" height="130px"></td>              
-  <td><img src="assets/compare/training-free/1/pnp.png" width="130px" height="130px"></td>
+  <td><img src="assets/compare/training-free/1/source.png" width="120px" height="120px"></td>
+  <td><img src="assets/compare/training-free/1/ours.png" width="120px" height="120px"></td>
+  <td><img src="assets/compare/training-free/1/p2p.png" width="120px" height="120px"></td>              
+  <td><img src="assets/compare/training-free/1/pnp.png" width="120px" height="120px"></td>
 </tr>
 <tr>
   <td style="text-align:center;">Slices <br>of steak</td>
-  <td><img src="assets/compare/training-free/4/ours.png" width="130px" height="130px"></td>
-  <td><img src="assets/compare/training-free/4/ours.png" width="130px" height="130px"></td>
-  <td><img src="assets/compare/training-free/4/ours.png" width="130px" height="130px"></td>              
-  <td><img src="assets/compare/training-free/4/ours.png" width="130px" height="130px"></td>
+  <td><img src="assets/compare/training-free/4/ours.png" width="120px" height="120px"></td>
+  <td><img src="assets/compare/training-free/4/ours.png" width="120px" height="120px"></td>
+  <td><img src="assets/compare/training-free/4/ours.png" width="120px" height="120px"></td>              
+  <td><img src="assets/compare/training-free/4/ours.png" width="120px" height="120px"></td>
 </tr>
 </table>
 
