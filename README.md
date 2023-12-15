@@ -49,7 +49,7 @@ compare with training-free methods
 <p align="center">
   <table align="center"   style="text-align:center;">
     <tr style="background-color: #F5F5F5">
-      <td align="center">
+      <td align="center" style="width: 70px; height:90px;padding:0;" >
        Simplified <br>Prompt
       </td>
       <td align="center">
