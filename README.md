@@ -49,25 +49,25 @@ compare with training-free methods
 <p align="center">
   <table align="center"   style="text-align:center;">
     <tr style="background-color: #F5F5F5">
-      <td align="center"style="width: 90px; height:50px;">
+      <td align="center">
        Simplified <br>Prompt
       </td>
-      <td align="center"style="width: 90px; height:50px;">
+      <td align="center">
        Source Image
       </td>
-      <td  align="center"style="width: 90px; height:50px;">
+      <td  align="center">
         <b>MAG-Edit(Ours)</b>
       </td>
-      <td align="center"style="width: 90px; height:50px;">
+      <td align="center">
        <a href="https://github.com/omriav/blended-latent-diffusion">Blended LD</a>
       </td>
-      <td  align="center"style="width: 90px; height:50px;">
+      <td  align="center">
       <a href="https://arxiv.org/abs/2210.11427">DiffEdit</a>
       </td>
-      <td  align="center"style="width: 90px; height:50px;">
+      <td  align="center">
       <a herf="https://github.com/google/prompt-to-prompt">P2P</a>
       </td>
-      <td  align="center"style="width: 90px; height:50px;">
+      <td  align="center">
       <a herf="https://github.com/MichalGeyer/plug-and-play">PnP</a>
       </td>
     </tr>
