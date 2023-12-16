@@ -50,14 +50,14 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 <p align="center">
   <table align="center"   style="text-align:center;">
     <tr >
-      <td align="center" style="width: 100px;" >
+      <td align="center" style="width: 10%;" >
        Simplified <br>Prompt
       </td>
-      <td align="center" style="width: 100px;">
+      <td align="center" style="width: 15%;">
        Source <br> Image
       </td>
-      <td  align="center" style="width: 100px;">
-        <b>Ours</b>
+      <td  align="center" style="width: 15%;">
+        <b>Oursssssss</b>
       </td>
       <td align="center" style="width: 15%;">
        <a href="https://github.com/omriav/blended-latent-diffusion">Blended <br> LD</a>
