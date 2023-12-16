@@ -57,7 +57,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
        Source <br> Image
       </td>
       <td  align="center" style="width: 15%;">
-        <b>&nbsp;&nbsp;Ourssssssssss</b>
+        <b>&nbsp;&nbsp;Ours&nbsp;&nbsp;</b>
       </td>
       <td align="center" style="width: 15%;">
        <a href="https://github.com/omriav/blended-latent-diffusion">Blended <br> LD</a>
