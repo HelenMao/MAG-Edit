@@ -60,15 +60,15 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
         <b>Ours</b>
       </td>
       <td  style="text-align:center;"  width=15%>
-       <a href="https://github.com/omriav/blended-latent-diffusion">Blended <br> LD</a>
+       <a href="https://github.com/omriav/blended-latent-diffusion">Blended LD</a>
       </td>
-      <td   style="text-align:center;"  width=15%>
+      <td  style="text-align:center;"  width=15%>
       <a href="https://arxiv.org/abs/2210.11427">DiffEdit</a>
       </td>
-      <td   style="text-align:center;"  width=15%>
+      <td  style="text-align:center;"  width=15%>
       <a herf="https://github.com/google/prompt-to-prompt">P2P</a>
       </td>
-      <td   style="text-align:center;"  width=15%>
+      <td  style="text-align:center;"  width=15%>
       <a herf="https://github.com/MichalGeyer/plug-and-play">PnP</a>
       </td>
     </tr>
@@ -166,30 +166,112 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
   </table>
 
 
+<font size=4>Comparison with training and finetuning methods</font>
+
+<p align="center">
+  <table align="center"  >
+    <tr >
+      <td  style="text-align:center;" width=10% >
+       Simplified <br>Prompt
+      </td>
+      <td  style="text-align:center;" width=15%>
+       Source <br> Image
+      </td>
+      <td   style="text-align:center;"  width=15%>
+        <b>Ours</b>
+      </td>
+      <td  style="text-align:center;"  width=15%>
+       <a href="https://github.com/omriav/blended-latent-diffusion">InstructPix2Pix</a>
+      </td>
+      <td  style="text-align:center;"  width=15%>
+      <a href="https://arxiv.org/abs/2210.11427">MagicBrush</a>
+      </td>
+      <td  style="text-align:center;"  width=15%>
+      <a herf="https://github.com/google/prompt-to-prompt">SINE</a>
+    </tr>
+    <tr>
+      <td   width=10%>
+        Yellow <br>car
+      </td>
+      <td   width=18%>
+        <img src="assets/compare/training/1/source.png">
+      </td>
+      <td  width=18%> 
+        <img src="assets/compare/training/1/ours.png" >
+      </td>
+      <td   width=18%>
+        <img src="assets/compare/training/1/ip2p.png" >
+      </td>          
+      <td  width=18%>
+        <img src="assets/compare/training/1/magic.png" ></img>
+      </td>
+      <td width=18%>
+        <img src="assets/compare/training/1/sine.png" >
+      </td>    
+    </tr>
+    <tr>
+      <td   width=10%>
+        Plaid <br>Sofa
+      </td>
+      <td   width=15%>
+        <img src="assets/compare/training/4/source.png">
+      </td>
+      <td  width=15%> 
+        <img src="assets/compare/training/4/ours.png" >
+      </td>
+      <td   width=15%>
+        <img src="assets/compare/training/4/ip2p.png" >
+      </td>          
+      <td  width=15%>
+        <img src="assets/compare/training/4/magic.png" ></img>
+      </td>
+      <td width=15%>
+        <img src="assets/compare/training/4/sine.png" >
+      </td> 
+    </tr>   
+    <tr>
+      <td   width=10%>
+        Tropical <br>fish
+      </td>
+      <td   width=18%>
+        <img src="assets/compare/training/2/source.png">
+      </td>
+      <td  width=18%> 
+        <img src="assets/compare/training/2/ours.png" >
+      </td>
+      <td   width=18%>
+        <img src="assets/compare/training/2/ip2p.png" >
+      </td>          
+      <td  width=18%>
+        <img src="assets/compare/training/2/magic.png" ></img>
+      </td>
+      <td width=18%>
+        <img src="assets/compare/training/2/sine.png" >
+      </td>    
+    </tr>
+    <tr>
+        <td   width=10%>
+        Strawberry
+      </td>
+      <td   width=18%>
+        <img src="assets/compare/training/3/source.png">
+      </td>
+      <td  width=18%> 
+        <img src="assets/compare/training/3/ours.png" >
+      </td>
+      <td   width=18%>
+        <img src="assets/compare/training/3/ip2p.png" >
+      </td>          
+      <td  width=18%>
+        <img src="assets/compare/training/3/magic.png" ></img>
+      </td>
+      <td width=18%>
+        <img src="assets/compare/training/3/sine.png" >
+      </td>          
+    </tr>
+  </table>
 
 
-
-
-
->
-<!--
-<p align="center">
-<font size=4>Comparison with <a href="https://github.com/google/prompt-to-prompt">P2P</a> and <a href="https://github.com/MichalGeyer/plug-and-play">PnP</a></font>
-</p>
-<p align="center">
-<img src="assets/qualitative_cmp/p2ppnp.png"/>  
-</p>
-<p align="center">
-<font size=4>Comparison with <a href="https://github.com/timothybrooks/instruct-pix2pix">InstructPix2Pix</a> and <a href="https://github.com/OSU-NLP-Group/MagicBrush">MagicBrush</a></font>
-</p>
-<p align="center">
-<img src="assets/qualitative_cmp/instructimagic.png"/>  
-</p>
-<h3> Various Editing Scenarios </h3>
-<p align="center">
-<img src="assets/editing_scenarios.png"/>  
-</p>
--->
 
 
 
