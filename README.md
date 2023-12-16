@@ -188,6 +188,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
       </td>
       <td  style="text-align:center;"  width=15%>
       <a herf="https://github.com/zhang-zx/SINE">SINE</a>
+      </td>
     </tr>
     <tr>
       <td   width=10%>
@@ -293,8 +294,8 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
       <a href="https://github.com/phymhan/prompt-to-prompt">ProxNPI</a>
       </td>
       <td  style="text-align:center;"  width=15%>
-      <a herf="https://github.com/cure-lab/DirectInversion">Direct<br>Inversion
-</a>
+      <a href="https://github.com/cure-lab/DirectInversion">DirectInversion</a>
+      </td>
     </tr>
     <tr>
       <td   width=10%>
