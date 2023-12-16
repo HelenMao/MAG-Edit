@@ -66,10 +66,10 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
       <a href="https://arxiv.org/abs/2210.11427">DiffEdit</a>
       </td>
       <td  align="center" style="width: 15%;">
-      <a herf="https://github.com/google/prompt-to-prompt">&nbsp;&nbsp;P2P&nbsp;&nbsp;</a>
+      <a herf="https://github.com/google/prompt-to-prompt">&nbsp;&nbsp;&nbsp;P2P&nbsp;&nbsp;&nbsp;</a>
       </td>
       <td  align="center" style="width: 15%;">
-      <a herf="https://github.com/MichalGeyer/plug-and-play">&nbsp;&nbsp;PnP&nbsp;&nbsp;</a>
+      <a herf="https://github.com/MichalGeyer/plug-and-play">&nbsp;&nbsp;&nbsp;PnP&nbsp;&nbsp;&nbsp;</a>
       </td>
     </tr>
     <tr>
