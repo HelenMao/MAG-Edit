@@ -50,13 +50,13 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 <p align="center">
   <table align="center"   style="text-align:center;">
     <tr >
-      <td align="center" style="width: 10%;" >
+      <td align="center" style="width: 100px;" >
        Simplified <br>Prompt
       </td>
-      <td align="center" style="width: 15%;">
+      <td align="center" style="width: 100px;">
        Source <br> Image
       </td>
-      <td  align="center" style="width: 15%;">
+      <td  align="center" style="width: 100px;">
         <b>Ours</b>
       </td>
       <td align="center" style="width: 15%;">
@@ -80,7 +80,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
         <img src="assets/compare/training-free/1/source.png" width=70%>
       </td>
       <td align="center" style="width: 15%;"> 
-        <img src="assets/compare/training-free/1/ours.png" style="width:70%">
+        <img src="assets/compare/training-free/1/ours.png" width=70%>
       </td>
       <td  align="center" style="width: 15%;">
         <img src="assets/compare/training-free/1/blended.png" width=70%>
