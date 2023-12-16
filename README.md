@@ -181,13 +181,13 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
         <b>Ours</b>
       </td>
       <td  style="text-align:center;"  width=15%>
-       <a href="https://github.com/omriav/blended-latent-diffusion">InstructPix2Pix</a>
+       <a href="https://github.com/timothybrooks/instruct-pix2pix">Instruct<br>Pix2Pix</a>
       </td>
       <td  style="text-align:center;"  width=15%>
-      <a href="https://arxiv.org/abs/2210.11427">MagicBrush</a>
+      <a href="https://github.com/OSU-NLP-Group/MagicBrush">Magic<br>Brush</a>
       </td>
       <td  style="text-align:center;"  width=15%>
-      <a herf="https://github.com/google/prompt-to-prompt">SINE</a>
+      <a herf="https://github.com/zhang-zx/SINE">SINE</a>
     </tr>
     <tr>
       <td   width=10%>
@@ -251,7 +251,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
     </tr>
     <tr>
         <td   width=10%>
-        Strawberry
+        Straw<br>-berry
       </td>
       <td   width=18%>
         <img src="assets/compare/training/3/source.png">
