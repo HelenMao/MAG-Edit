@@ -63,7 +63,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
        <a href="https://github.com/omriav/blended-latent-diffusion">Blended <br> LD</a>
       </td>
       <td  align="center" style="width: 15%;">
-      <a href="https://arxiv.org/abs/2210.11427">Diff</a>
+      <a href="https://arxiv.org/abs/2210.11427">DiffEdit</a>
       </td>
       <td  align="center" style="width: 15%;">
       <a herf="https://github.com/google/prompt-to-prompt">P2P</a>
