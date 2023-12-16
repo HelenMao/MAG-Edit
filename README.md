@@ -86,7 +86,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
         <img src="assets/compare/training-free/1/blended.png" width=70%>
       </td>          
       <td  align="center" style="width: 15%;">
-        <img src="assets/compare/training-free/1/diffedit.png" width=70%>
+        <img src="assets/compare/training-free/1/diffedit.png" width=70%></img>
       </td>
       <td  align="center" style="width: 15%;">
         <img src="assets/compare/training-free/1/p2p.png" width=70%>
