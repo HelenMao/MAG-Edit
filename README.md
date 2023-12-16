@@ -50,25 +50,25 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 <p align="center">
   <table align="center"   style="text-align:center;">
     <tr >
-      <td align="center" style="width: 10%;" >
+      <td align="center" width=10% >
        Simplified <br>Prompt
       </td>
-      <td align="center" style="width: 15%;">
+      <td align="center" width=15%>
        Source <br> Image
       </td>
-      <td  align="center" style="width: 15%;">
+      <td  align="center"  width=15%>
         <b>Ours</b>
       </td>
-      <td align="center" style="width: 15%;">
+      <td align="center"  width=15%>
        <a href="https://github.com/omriav/blended-latent-diffusion">Blended <br> LD</a>
       </td>
-      <td  align="center" style="width: 15%;">
+      <td  align="center"  width=15%>
       <a href="https://arxiv.org/abs/2210.11427">DiffEdit</a>
       </td>
-      <td  align="center" style="width: 15%;">
+      <td  align="center"  width=15%>
       <a herf="https://github.com/google/prompt-to-prompt">P2P</a>
       </td>
-      <td  align="center" style="width: 15%;">
+      <td  align="center" s width=15%>
       <a herf="https://github.com/MichalGeyer/plug-and-play">PnP</a>
       </td>
     </tr>
