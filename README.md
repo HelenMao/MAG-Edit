@@ -57,19 +57,19 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
        Source <br> Image
       </td>
       <td  align="center" style="width: 15%;">
-        <b>&nbsp;&nbsp;Ours&nbsp;&nbsp;</b>
+        <b>Ours</b>
       </td>
       <td align="center" style="width: 15%;">
        <a href="https://github.com/omriav/blended-latent-diffusion">Blended <br> LD</a>
       </td>
       <td  align="center" style="width: 15%;">
-      <a href="https://arxiv.org/abs/2210.11427">DiffEdit</a>
+      <a href="https://arxiv.org/abs/2210.11427">Diff</a>
       </td>
       <td  align="center" style="width: 15%;">
-      <a herf="https://github.com/google/prompt-to-prompt">&nbsp;&nbsp;&nbsp;P2P&nbsp;&nbsp;&nbsp;</a>
+      <a herf="https://github.com/google/prompt-to-prompt">P2P</a>
       </td>
       <td  align="center" style="width: 15%;">
-      <a herf="https://github.com/MichalGeyer/plug-and-play">&nbsp;&nbsp;&nbsp;PnP&nbsp;&nbsp;&nbsp;</a>
+      <a herf="https://github.com/MichalGeyer/plug-and-play">PnP</a>
       </td>
     </tr>
     <tr>
@@ -86,7 +86,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
         <img src="assets/compare/training-free/1/blended.png" width=70%>
       </td>          
       <td  align="center" style="width: 15%;">
-        <img src="assets/compare/training-free/1/diffedit.png" width=70%>
+        <img src="assets/compare/training-free/1/diffedit.png" width=70%></img>
       </td>
       <td  align="center" style="width: 15%;">
         <img src="assets/compare/training-free/1/p2p.png" width=70%>
