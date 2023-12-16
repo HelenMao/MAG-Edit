@@ -181,10 +181,10 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
         <b>Ours</b>
       </td>
       <td  style="text-align:center;"  width=15%>
-       <a href="https://github.com/timothybrooks/instruct-pix2pix">Instruct<br>Pix2Pix</a>
+       <a href="https://github.com/timothybrooks/instruct-pix2pix">Instruct<br>-Pix2Pix</a>
       </td>
       <td  style="text-align:center;"  width=15%>
-      <a href="https://github.com/OSU-NLP-Group/MagicBrush">Magic<br>Brush</a>
+      <a href="https://github.com/OSU-NLP-Group/MagicBrush">Magic<br>-Brush</a>
       </td>
       <td  style="text-align:center;"  width=15%>
       <a herf="https://github.com/zhang-zx/SINE">SINE</a>
@@ -272,7 +272,91 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
   </table>
 
 
+<font size=4>Comparison with Inversion methods</font>
 
+<p align="center">
+  <table align="center"  >
+    <tr >
+      <td  style="text-align:center;" width=10% >
+       Simplified <br>Prompt
+      </td>
+      <td  style="text-align:center;" width=15%>
+       Source <br> Image
+      </td>
+      <td   style="text-align:center;"  width=15%>
+        <b>Ours</b>
+      </td>
+      <td  style="text-align:center;"  width=15%>
+       <a href="https://github.com/sen-mao/StyleDiffusion">Style<br>-Diffusion</a>
+      </td>
+      <td  style="text-align:center;"  width=15%>
+      <a href="https://github.com/phymhan/prompt-to-prompt">ProxNPI</a>
+      </td>
+      <td  style="text-align:center;"  width=15%>
+      <a herf="https://github.com/cure-lab/DirectInversion">Direct<br>Inversion
+</a>
+    </tr>
+    <tr>
+      <td   width=10%>
+        Jeep
+      </td>
+      <td   width=18%>
+        <img src="assets/compare/inversion/1/source.png">
+      </td>
+      <td  width=18%> 
+        <img src="assets/compare/inversion/1/ours.png" >
+      </td>
+      <td   width=18%>
+        <img src="assets/compare/inversion/1/stylediffusion.png" >
+      </td>          
+      <td  width=18%>
+        <img src="assets/compare/inversion/1/proxnpi.png" ></img>
+      </td>
+      <td width=18%>
+        <img src="assets/compare/inversion/1/directinversion.png" >
+      </td>    
+    </tr>
+    <tr>
+       <td   width=10%>
+        Floral <br>sofa
+      </td>
+      <td   width=18%>
+        <img src="assets/compare/inversion/2/source.png">
+      </td>
+      <td  width=18%> 
+        <img src="assets/compare/inversion/2/ours.png" >
+      </td>
+      <td   width=18%>
+        <img src="assets/compare/inversion/2/stylediffusion.png" >
+      </td>          
+      <td  width=18%>
+        <img src="assets/compare/inversion/2/proxnpi.png" ></img>
+      </td>
+      <td width=18%>
+        <img src="assets/compare/inversion/2/directinversion.png" >
+      </td>    
+    </tr>   
+    <tr>
+      <td   width=10%>
+        Yellow <br>shirt
+      </td>
+      <td   width=18%>
+        <img src="assets/compare/inversion/3/source.png">
+      </td>
+      <td  width=18%> 
+        <img src="assets/compare/inversion/3/ours.png" >
+      </td>
+      <td   width=18%>
+        <img src="assets/compare/inversion/3/stylediffusion.png" >
+      </td>          
+      <td  width=18%>
+        <img src="assets/compare/inversion/3/proxnpi.png" ></img>
+      </td>
+      <td width=18%>
+        <img src="assets/compare/inversion/3/directinversion.png" >
+      </td>    
+    </tr>
+  </table>
 
 
 ## :triangular_flag_on_post: Citation 
@@ -289,7 +373,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 
 ## :revolving_hearts: Acknowledgements
 
-This repository borrows heavily from [prompt-to-prompt](https://github.com/google/prompt-to-prompt/). Thanks to the authors for sharing their code and models.
+This repository borrows heavily from [prompt-to-prompt](https://github.com/google/prompt-to-prompt/) and [layout-guidance](https://github.com/silent-chen/layout-guidance). Thanks to the authors for sharing their code and models.
 
 
 
