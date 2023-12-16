@@ -86,7 +86,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
         <img src="assets/compare/training-free/1/blended.png" >
       </td>          
       <td  width=15%>
-        <img src="assets/compare/training-free/1/diffedit.png" ></img>
+        <img src="assets/compare/training-free/1/diffedit.png" >
       </td>
       <td width=15%>
         <img src="assets/compare/training-free/1/p2p.png" >
@@ -145,10 +145,10 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
       <td  >
         Slices of <br>steak
       </td>
-      <td   >
-        <img src="assets/compare/training-free/4/source.png" 
+      <td>
+        <img src="assets/compare/training-free/4/source.png"> 
       </td>
-      <td >
+      <td>
         <img src="assets/compare/training-free/4/ours.png" >
       </td>
       <td >
@@ -162,7 +162,8 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
       </td>      
       <td>
         <img src="assets/compare/training-free/4/pnp.png" >
-      </td>     
+      </td>  
+    </tr>   
   </table>
 
 
