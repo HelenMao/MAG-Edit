@@ -365,10 +365,10 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 
 ```
 @article{qi2023MAG-Edit,
-      title={MAG-Edit: Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance  }, 
+      title={MAG-Edit: Localized Image Editing in Complex Scenarios via $\underline{M}$ask-Based $\underline{A}$ttention-Adjusted $\underline{G}$uidance}, 
       author={Qi Mao and Lan Chen and Yuchao Gu and Zhen Fang and Mike Zheng Shou},
       year={2023},
-      journal={arXiv:XXXXX},
+      journal={arXiv preprint arXiv:2312.11396},
 }
 ``` 
 
