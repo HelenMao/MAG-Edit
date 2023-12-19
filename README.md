@@ -364,7 +364,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 ## :triangular_flag_on_post: Citation 
 
 ```
-@article{qi2023MAG-Edit,
+@article{mao2023magedit,
       title={MAG-Edit: Localized Image Editing in Complex Scenarios via $\underline{M}$ask-Based $\underline{A}$ttention-Adjusted $\underline{G}$uidance}, 
       author={Qi Mao and Lan Chen and Yuchao Gu and Zhen Fang and Mike Zheng Shou},
       year={2023},
