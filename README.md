@@ -6,7 +6,7 @@ This repository is the official implementation of MAG-Edit.
 
 
 [![Project Website](https://img.shields.io/badge/Project-Website-orange
-)](https://orannue.github.io/MAG-Edit/)
+)](https://mag-edit.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-XXXXX-red
 )]()
 
