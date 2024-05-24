@@ -34,9 +34,33 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 - [x] Release MAG-Edit paper and project page
 ## :video_game: MAG-Edit Implementation
 ### Preparation
-<p>Our method is tested using cuda12.0, fp16 of accelerator and xformers on a single A100 or 3090.</p>
-<p>The preparation work mainly includes downloading the pre-trained model and configuring the environment.</p>
+Our method is tested using cuda12.0, fp16 of accelerator and xformers on a single A100 or 3090.
+The preparation work mainly includes downloading the pre-trained model and configuring the environment.
 
+```bash
+conda create -n mag python=3.8
+conda activate mag
+
+pip install -r requirements.txt
+```
+We mainly conduct expriemnts on Stable Diffusion v1-4.
+You can download these checkpoints from [Hugging Face](https://huggingface.co/CompVis/stable-diffusion-v1-4) and move these files to the folder `code_tr/models/sdm-1.4`. 
+
+### Demo
+To run MAG-Edit, single GPU with at least 32 GB VRAM is required.
+The `code_tr/edit.sh` provide the edit sample.
+
+```bash
+CUDA_VISIBLE_DEVICES=0 python edit.py --source_prompt="there is a set of sofas on the red carpet in the living room"\
+                --target_prompt="there is a set of sofas on the yellow carpet in the living room" \
+                --target_word="yellow" \
+                --img_path="/data/home/cl/code_tr/examples/1/1.jpg"\
+                --mask_path="/data/home/cl/code_tr/examples/1/mask.png"\
+                --result_dir="result"\
+                --max_iteration=15\
+                --scale=2.5
+```
+The result is saved at `code_tr/result`.
 <p align="center">
 <h2> Various Editing Types </h2>
 <p align="center">
