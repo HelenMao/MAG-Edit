@@ -33,7 +33,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 - [x] Release Token Ratio Code
 - [x] Release MAG-Edit paper and project page
 ## :video_game: MAG-Edit Implementation
-### Preparation
+### Environment Setup
 Our method is tested using cuda12.0 on a single A100 or 3090.
 The preparation work mainly includes downloading the pre-trained model and configuring the environment.
 
