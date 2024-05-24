@@ -33,7 +33,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 - [x] Release Token Ratio Code
 - [x] Release MAG-Edit paper and project page
 ## :video_game: MAG-Edit Implementation
-### Environment Setup
+### Setup Environment
 Our method is tested using cuda12.0 on a single A100 or 3090.
 The preparation work mainly includes downloading the pre-trained model and configuring the environment.
 
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 We use Stable Diffusion v1-4 as backbone, please download from [Hugging Face](https://huggingface.co/CompVis/stable-diffusion-v1-4) and change the file path in line26 in `code_tr/network.py`.
 ### Run MAG-Edit (Token Ratio)
-To run MAG-Edit, single GPU with at least 32 GB VRAM is required.
+To run MAG-Edit, single GPU with at least 24 GB VRAM is required.
 The `code_tr/edit.sh` provide the edit sample.
 
 ```bash
