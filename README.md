@@ -26,12 +26,16 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 </details>
 
 ## :pencil: Changelog
+- 2024.05.24 Release Token Ratio Code!
 - 2023.12.19 Release Project Page and Paper!
 ## 💡TODO:
-
-- [ ] Release Code
+- [] Release Spatial Ratio Code 
+- [x] Release Token Ratio Code
 - [x] Release MAG-Edit paper and project page
-
+## :video_game: MAG-Edit Implementation
+### Preparation
+<p>Our method is tested using cuda12.0, fp16 of accelerator and xformers on a single A100 or 3090.</p>
+<p>The preparation work mainly includes downloading the pre-trained model and configuring the environment.</p>
 
 <p align="center">
 <h2> Various Editing Types </h2>
