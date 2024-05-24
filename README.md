@@ -34,7 +34,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 - [x] Release MAG-Edit paper and project page
 ## :video_game: MAG-Edit Implementation
 ### Setup Environment
-Our method is tested using cuda12.0 on a single A100 or 3090.
+Our method is tested using cuda12.0 on a single A100 or V100.
 The preparation work mainly includes downloading the pre-trained model and configuring the environment.
 
 ```bash
@@ -47,15 +47,15 @@ pip install -r requirements.txt
 
 We use Stable Diffusion v1-4 as backbone, please download from [Hugging Face](https://huggingface.co/CompVis/stable-diffusion-v1-4) and change the file path in line26 in `code_tr/network.py`.
 ### Run MAG-Edit (Token Ratio)
-To run MAG-Edit, single GPU with at least 24 GB VRAM is required.
+To run MAG-Edit, single GPU with at least 32 GB VRAM is required.
 The `code_tr/edit.sh` provide the edit sample.
 
 ```bash
 CUDA_VISIBLE_DEVICES=0 python edit.py --source_prompt="there is a set of sofas on the red carpet in the living room"\
                 --target_prompt="there is a set of sofas on the yellow carpet in the living room" \
                 --target_word="yellow" \
-                --img_path="/data/home/cl/code_tr/examples/1/1.jpg"\
-                --mask_path="/data/home/cl/code_tr/examples/1/mask.png"\
+                --img_path="examples/1/1.jpg"\
+                --mask_path="examples/1/mask.png"\
                 --result_dir="result"\
                 --max_iteration=15\
                 --scale=2.5
