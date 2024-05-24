@@ -46,6 +46,7 @@ pip install -r requirements.txt
 We mainly conduct expriemnts on Stable Diffusion v1-4.
 You can download these checkpoints from [Hugging Face](https://huggingface.co/CompVis/stable-diffusion-v1-4) and move these files to the folder `code_tr/models/sdm-1.4`. 
 
+We use Stable Diffusion v1-4 as backbone, please download from [Hugging Face](https://huggingface.co/CompVis/stable-diffusion-v1-4) and change the file path in line26 in `code_tr/network.py`.
 ### Demo
 To run MAG-Edit, single GPU with at least 32 GB VRAM is required.
 The `code_tr/edit.sh` provide the edit sample.
