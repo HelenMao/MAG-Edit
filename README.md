@@ -29,7 +29,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 - 2024.05.24 Release Token Ratio Code!
 - 2023.12.19 Release Project Page and Paper!
 ## 💡TODO:
-- [] Release Spatial Ratio Code 
+- [ ] Release Spatial Ratio Code 
 - [x] Release Token Ratio Code
 - [x] Release MAG-Edit paper and project page
 ## :video_game: MAG-Edit Implementation
