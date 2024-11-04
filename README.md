@@ -392,22 +392,12 @@ The result is saved at `code_tr/result`.
 ## :triangular_flag_on_post: Citation 
 
 ```
-@inproceedings{10.1145/3664647.3680830,
-author = {Mao, Qi and Chen, Lan and Gu, Yuchao and Fang, Zhen and Shou, Mike Zheng},
-title = {MAG-Edit: Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance},
-year = {2024},
-isbn = {9798400706868},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3664647.3680830},
-doi = {10.1145/3664647.3680830},
-abstract = {Recent diffusion-based image editing approaches have exhibited impressive editing capabilities in images with one dominant object in simple compositions. However, localized editing in images containing multiple objects and intricate compositions has not been well-studied in the literature, despite its growing real-world demands. Existing mask-based inpainting methods fall short of retaining the underlying structure within the edit region, causing noticeable discordance with their complex surroundings. Meanwhile, attention-based methods such as Prompt-to-Prompt (P2P) often exhibit editing leakage and misalignment in more complex compositions. In this work, we propose MAG-Edit, a plug-and-play, inference-stage optimization method, that empowers attention-based editing approaches, such as P2P, to enhance localized image editing in intricate scenarios. In particular, MAG-Edit optimizes the noise latent feature by encouraging two mask-based cross-attention ratios of the edit token, which in turn gradually enhances the local alignment with the desired prompt. Extensive quantitative and qualitative experiments demonstrate the effectiveness of our method in achieving both text alignment and structure preservation for localized editing within complex scenarios.},
-booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
-pages = {6842–6850},
-numpages = {9},
-keywords = {attention-based guidance, diffusion models, text-based image editing},
-location = {Melbourne VIC, Australia},
-series = {MM '24}
+@inproceedings{mao2024mag,
+  title={Mag-edit: Localized image editing in complex scenarios via mask-based attention-adjusted guidance},
+  author={Mao, Qi and Chen, Lan and Gu, Yuchao and Fang, Zhen and Shou, Mike Zheng},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={6842--6850},
+  year={2024}
 }
 ``` 
 
