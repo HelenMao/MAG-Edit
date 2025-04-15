@@ -162,14 +162,31 @@ def register_attention_control(model, controller):
         else:
             to_out = self.to_out
 
-        def forward(x, context=None, mask=None):
+        def forward(x, context=None, **kwargs):
             batch_size, sequence_length, dim = x.shape
             
             h = self.heads
             q = self.to_q(x)
-            is_cross = context is not None
-            context = context if is_cross else x
-          
+            
+            # <<< FIX CONTEXT ASSIGNMENT >>>
+            # Original check:
+            # is_cross = context is not None
+            # context = context if is_cross else x
+            
+            # Revised check:
+            # Check if text embeddings were passed via kwargs instead of context argument
+            if context is None and 'encoder_hidden_states' in kwargs:
+                is_cross = True
+                # Retrieve encoder_hidden_states from kwargs
+                context = kwargs['encoder_hidden_states'] 
+            else:
+                 # Standard handling (context argument might be None for self-attn)
+                is_cross = context is not None
+                context = context if is_cross else x
+                
+            # <<< ADD DEBUG PRINT >>>
+            # print(f"Place: {place_in_unet}, Is Cross: {is_cross}, X Shape: {x.shape}, Context Shape: {context.shape if context is not None else 'None'}, Kwargs Keys: {list(kwargs.keys())}")
+
             k = self.to_k(context)
             v = self.to_v(context)
             q = self.reshape_heads_to_batch_dim(q)
@@ -179,13 +196,6 @@ def register_attention_control(model, controller):
             sim = torch.einsum("b i d, b j d -> b i j", q, k) * self.scale
           
             
-            if mask is not None:
-                mask = mask.reshape(batch_size, -1)
-                max_neg_value = -torch.finfo(sim.dtype).max
-                mask = mask[:, None, :].repeat(h, 1, 1)
-                sim.masked_fill_(~mask, max_neg_value)
-          
-
             # attention, what we cannot get enough of
             attn = sim.softmax(dim=-1)
             attn = controller(attn, is_cross, place_in_unet)
@@ -286,5 +296,3 @@ def get_time_words_attention_alpha(prompts, num_steps,
                     alpha_time_words = update_alpha_time_word(alpha_time_words, item, i, ind)
     alpha_time_words = alpha_time_words.reshape(num_steps + 1, len(prompts) - 1, 1, 1, max_num_words)
     return alpha_time_words
-
-  
