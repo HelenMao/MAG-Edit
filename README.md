@@ -1,4 +1,3 @@
-### MAG-Edit: Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance  (ACM MM2024)
 
 This repository is the official implementation of MAG-Edit.
 
