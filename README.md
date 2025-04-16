@@ -33,6 +33,7 @@ Recent diffusion-based image editing approaches have exhibited impressive editin
 - [x] Release Token Ratio Code
 - [x] Release MAG-Edit paper and project page
 ## :video_game: MAG-Edit Implementation
+Thanks to [@erikbZhang](https://github.com/erikbZhang) for updating our code to be compatible with the upgraded Diffusers library and model weights. The original implementation can still be found in the ```old_diffusers``` branch.
 ### Setup Environment
 Our method is tested using cuda12.0 on a single A100 or V100.
 The preparation work mainly includes downloading the pre-trained model and configuring the environment.
